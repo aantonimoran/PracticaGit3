@@ -23,7 +23,7 @@ public class SolucioAlumnes {
         String millorAlumne = "";
         int i = 0; // comptador
         int j = 0; // segon comptador
-
+	int u = 0;
         String name = ""; // nom de l'alumne
 
         // Per cada alumne

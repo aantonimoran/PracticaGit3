@@ -4,6 +4,7 @@ public class m03array {
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
         int i = 0;
+        int o = 0:
         int [] nums = new int[6];
         System.out.println("Escriu 6 numeros: ");
         while (i < 6) {
