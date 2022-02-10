@@ -5,8 +5,10 @@ public class m03array {
     Scanner sc = new Scanner(System.in);
         int i = 0;
         int o = 0:
+        int mesos = 0;
         int [] nums = new int[6];
         System.out.println("Escriu 6 numeros: ");
+        mesos = sc.nextInt();
         while (i < 6) {
             nums[i] = sc.nextInt();
             i++;
